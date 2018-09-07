@@ -1,1 +1,28 @@
 .normallink { background:#FFC0CB; display:inline-block; }
+
+.details-container {
+  width: calc(50% - 300px);
+  margin: 0px auto;
+  transform: translateX(100%);
+  position: relative;
+}
+
+
+.details-inner {
+	position: absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	padding:20px;
+}
+
+
+
+.good-link { 
+}
+
+
+
+.bad-link {
+	background-color:#B9FF73;
+}
