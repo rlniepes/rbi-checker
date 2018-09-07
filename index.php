@@ -39,7 +39,7 @@
 			<div class="col-sm-12">
 				<form class="form-inline custom-inline" action="iframe.php" method="post" target="form_submit">
 				  <div class="form-group">
-				  	<a class="logo" href="#"><img src="http://via.placeholder.com/50x50?text=logo" alt="T.E.A.M"></a>
+				  	<a class="logo" href="#"><img src="media/images/logo.jpg" width="90" height="90" alt="T.E.A.M"></a>
 				    <label for="url">Enter URL</label>
 				    <input name="url" value="http://view.e.icis.com/?qs=1b22d3ca56f901e519fbc54806888dbcf7cd2bfc688daf9149b621f6fb493b7ce72c63aa72fe2ccd8d9aa1ec21a0ecb5c90c2033964ebd1f45bd5b4ad5fdf9d847850637cfda7b7205d3504d7dc06094" type="text" class="form-control" id="url" placeholder="http://helloworld.com/test.html">
 				  </div>
